@@ -1,0 +1,31 @@
+# Virtual env
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+*.log
+media/
+
+# Violation snapshots
+violation_snapshots/
+Detected Objects
+
+
+# IDE
+.vscode/
+.idea/
+
+# ML models (only if you don't want to upload them)
+*.pt
+*.pth
+*.onnx
+*.pkl
+
+# Secrets
+.env
+
