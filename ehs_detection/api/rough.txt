@@ -1,7 +1,0 @@
-cd /media/ai/9c5cf9b4-0abb-4b5a-b236-a9513ee6e9f6/ppe_detection
-
-source env/bin/activate
-
-cd ehs_detection
-
-python3 manage.py runserver
